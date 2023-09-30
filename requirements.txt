@@ -1,2 +1,3 @@
-pip install langchain
-pip install openai
+langchain
+openai
+streamlit
